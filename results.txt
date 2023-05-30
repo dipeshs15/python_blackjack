@@ -1,0 +1,82 @@
+Your name :shoaib
+You Played :
+1
+Game 1 of 1
+Your hand:
+10 of  speades
+J of  diamonds
+Dealer's  hand:
+Hidden
+9 of  speades
+
+Your choice was : stand
+
+Dealer's  hand:
+10 of  hearts
+9 of  speades
+
+Final Results:
+20
+19
+
+You win!
+
+Thanks for Playing!shoaib
+
+Your name : john
+You Played :
+1
+Game 1 of 1
+Your hand:
+5 of  speades
+J of  speades
+Dealer's  hand:
+Hidden
+2 of  speades
+
+Your choice was : hit 
+
+
+Your choice was  :stand
+
+Dealer's  hand:
+3 of  clubs
+2 of  speades
+10 of  clubs
+A of  hearts
+Q of  diamonds
+A of  speades
+
+Final Results:
+15
+17
+
+Dealer Wins!
+
+Thanks for Playing! john
+
+You Played :
+1
+Game 1 of 1
+Your hand:
+2 of  hearts
+K of  hearts
+Dealer's  hand:
+Hidden
+Q of  speades
+
+Your choice was : stand
+
+Dealer's  hand:
+4 of  speades
+Q of  speades
+5 of  hearts
+
+Final Results:
+12
+19
+
+Dealer Wins!
+
+Thanks for Playing! john
+
